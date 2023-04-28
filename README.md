@@ -1,0 +1,2 @@
+# mygoproject
+go test
